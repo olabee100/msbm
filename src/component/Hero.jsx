@@ -24,9 +24,9 @@ const Hero = () => {
             <div className="container">
               <div className="row justify-content-start">
                 <div className="col-sm-10 col-lg-8">
-                  <h5 className="text-uppercase mb-3 animated slideInDown" style={{ color: "#fb873f", fontSize: "5vw", maxWidth: "100%" }}>Best E-learning platform</h5>
-                  <h1 className="display-3 text-white animated slideInDown" style={{ fontSize: "6vw", maxWidth: "100%" }}>Learn Job ready skills from free online courses with certificates</h1>
-                  <p className="text-white mb-4 pb-2" style={{ fontSize: "4vw", maxWidth: "100%" }}>Explore a wide range of courses designed to enhance your expertise in technology, business, arts, and more. Start learning today!</p>
+                  <h5 className="text-uppercase mb-3 animated slideInDown" style={{ color: "#fb873f", fontSize: "3vw", maxWidth: "100%" }}>Best E-learning platform</h5>
+                  <h1 className="display-3 text-white animated slideInDown" style={{ fontSize: "4vw", maxWidth: "100%" }}>Learn Job ready skills from free online courses with certificates</h1>
+                  <p className="text-white mb-4 pb-2" style={{ fontSize: "2vw", maxWidth: "100%" }}>Explore a wide range of courses designed to enhance your expertise in technology, business, arts, and more. Start learning today!</p>
                   <a href="/" style={{ backgroundColor: "#fb873f" }} className="btn  py-md-3 px-md-5 me-3 animated slideInLeft">Read More</a>
                   <a href="/" className="btn btn-light py-md-3 px-md-5 animated slideInRight">Join Now</a>
                 </div>
@@ -40,11 +40,11 @@ const Hero = () => {
             <div className="container">
               <div className="row justify-content-start">
                 <div className="col-sm-10 col-lg-8">
-                  <h5 className="text-uppercase mb-3 animated slideInDown" style={{ color: "#fb873f", fontSize: "5vw", maxWidth: "100%" }}>Welcome to Metropolitan School of Business and Management</h5>
-                  <h1 className="display-3 text-white animated slideInDown" style={{ fontSize: "6vw", maxWidth: "100%" }}>Interactive Learning Experience</h1>
-                  <p className="text-white mb-4 pb-2" style={{ fontSize: "4vw", maxWidth: "100%" }}>Engage with interactive lessons, quizzes, and projects. Experience hands-on learning that keeps you motivated and inspired.</p>
-                  <a href="/" style={{ backgroundColor: "#fb873f" }} className="btn  py-md-3 px-md-5 me-3 animated slideInLeft">Read More</a>
-                  <a href="/" className="btn btn-light py-md-3 px-md-5 animated slideInRight">Join Now</a>
+                  <h5 className="text-uppercase mb-3 animated slideInDown" style={{ color: "#fb873f", fontSize: "3vw", maxWidth: "100%" }}>Welcome to Metropolitan School of Business and Management</h5>
+                  <h1 className="display-3 text-white animated slideInDown" style={{ fontSize: "4vw", maxWidth: "100%" }}>Interactive Learning Experience</h1>
+                  <p className="text-white mb-4 pb-2" style={{ fontSize: "2vw", maxWidth: "100%" }}>Engage with interactive lessons, quizzes, and projects. Experience hands-on learning that keeps you motivated and inspired.</p>
+                  <a href="/" style={{ backgroundColor: "#fb873f" }} className="btn  py-md-2 px-md-4 me-3 animated slideInLeft">Read More</a>
+                  <a href="/" className="btn btn-light py-md-2 px-md-4 animated slideInRight">Join Now</a>
                 </div>
               </div>
             </div>
