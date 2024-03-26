@@ -1,0 +1,8 @@
+.service-item {
+    transition: all 0.3s ease-in-out; 
+  }
+  
+  .service-item:hover {
+    transform: scale(1.05); 
+  }
+  
