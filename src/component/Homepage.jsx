@@ -5,7 +5,6 @@ import Explain from './Explain';
 import Courses from './Courses';
 import Faq from './Faq';
 import Testimonial from './Testimonial';
-import Footer from './Footer';
 
 
 const Homepage = () => {
